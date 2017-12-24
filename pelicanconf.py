@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Chicago'
-SITENAME = u'I feel so dirty'
-SITEURL = ''
+SITENAME = u'Lets talk about GnuPG'
+SITEURL = 'Chicago Airmail'
 
 PATH = 'content'
 OUTPUT_PATH = 'public'
