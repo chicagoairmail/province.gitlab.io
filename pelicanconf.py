@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'thedude'
-SITENAME = u'Example Pelican website using GitLab Pages!'
+AUTHOR = u'Chicago'
+SITENAME = u'I feel so dirty'
 SITEURL = ''
 
 PATH = 'content'
 OUTPUT_PATH = 'public'
 
-TIMEZONE = 'Europe/Athens'
+TIMEZONE = 'America/NewYork'
 
 DEFAULT_LANG = u'en'
 
@@ -21,8 +21,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
+LINKS = (('Github', 'https://github.com/chicagoairmail/'),
+         ('Python.org', 'https://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
