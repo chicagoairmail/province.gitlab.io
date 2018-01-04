@@ -47,4 +47,5 @@ generator a better chance to gain enough entropy.
 gpg: agent_genkey failed: Permission denied
 Key generation failed: Permission denied
 ```
+why? 
 
