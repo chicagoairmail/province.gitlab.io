@@ -48,4 +48,5 @@ gpg: agent_genkey failed: Permission denied
 Key generation failed: Permission denied
 ```
 why? 
+I don't know 
 
