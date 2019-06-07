@@ -1,6 +1,6 @@
 Title: Kathmandu District
 Date: 2019-06-06
-Category: Nepal
+Category: 3
 Tags: nepal, politics, geography
 Slug: kathmandu-district
 

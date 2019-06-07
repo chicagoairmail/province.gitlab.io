@@ -1,6 +1,6 @@
 Title: Province 3
 Date: 2018-01-23
-Category: Nepal
+Category: 3
 Tags: nepal, politics, geography
 Slug: province-3
 
