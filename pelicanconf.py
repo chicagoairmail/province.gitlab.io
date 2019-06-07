@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Chicago'
-SITENAME = u'Lets talk about GnuPG'
+SITENAME = u'The provinces of Nepal'
 SITEURL = 'Chicago Airmail'
 
 PATH = 'content'
