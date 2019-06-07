@@ -9,7 +9,7 @@ SITEURL = 'Chicago Airmail'
 PATH = 'content'
 OUTPUT_PATH = 'public'
 
-TIMEZONE = 'America/NewYork'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
